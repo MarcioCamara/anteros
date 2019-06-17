@@ -83,3 +83,7 @@ a {
 .info-details a {
     color: #333333;
 }
+
+.details-subtitle {
+    margin: 1em;
+}
