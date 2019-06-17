@@ -1,0 +1,85 @@
+a {
+    color: #37B5C3;
+}
+
+.back-to-top:hover {
+    background: #37B5C3;
+}
+
+#hero .btn-get-started {
+    background: #37B5C3;
+    border: 2px solid #37B5C3;
+}
+
+#hero .btn-services:hover {
+    background: #37B5C3;
+    border: 2px solid #37B5C3;
+}
+
+.nav-menu a:hover, .nav-menu li:hover > a, .nav-menu .menu-active > a {
+    color: #37B5C3;
+}
+
+#mobile-nav ul .menu-has-children i.fa-chevron-up {
+    color: #37B5C3;
+}
+
+#mobile-nav ul .menu-item-active {
+    color: #37B5C3;
+}
+
+.section-title-divider {
+    background: #37B5C3;
+}
+
+#services .service-icon {
+    background: #37B5C3;
+    border: 1px solid #37B5C3;
+}
+
+#services .service-item:hover .service-icon i {
+    color: #37B5C3;
+}
+
+#subscribe .subscribe-btn:hover {
+    background: #37B5C3;
+    border: 2px solid #37B5C3;
+}
+
+#testimonials .profile h4 {
+    color: #37B5C3;
+}
+
+#team .member .social a:hover {
+    color: #37B5C3;
+}
+
+#contact .info i {
+    color: #37B5C3;
+}
+
+#contact .form #sendmessage {
+    color: #37B5C3;
+    border: 1px solid #37B5C3;
+}
+
+#contact .form button[type="submit"] {
+    background: #37B5C3;
+}
+
+.rotating {
+    color: #FFF;
+    font-weight: bold;
+}
+
+.nav-menu a {
+    font-weight: bold;
+}
+
+.service-title {
+    color: #000;
+}
+
+.info-details a {
+    color: #333333;
+}
