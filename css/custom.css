@@ -87,3 +87,17 @@ a {
 .details-subtitle {
     margin: 1em;
 }
+
+.contact-image {
+    margin-bottom: 5vh;
+    width: 100%;
+}
+
+@media (min-width: 992px) {
+    .contact-image {
+        width: 50%;
+        margin-left: 25%;
+        margin-right: 25%;
+        margin-bottom: 5vh;
+    }
+}
